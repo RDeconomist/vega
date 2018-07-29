@@ -1,0 +1,53 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+  
+  "title":{
+    "text": "UK inflation meaures",
+    "anchor": "start",
+    "color" : "black",
+    "font": "Arial"
+  } ,
+  
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/vega/master/InflationData.csv"
+    },
+  
+    
+  "height": 500,
+  "width": 500,
+
+  "mark": "line",
+  "mark": {
+    "type": "line",
+    "interpolate": "basis"
+        },
+       
+  
+  "encoding": {
+
+    "x": {
+      "field": "Date", 
+      "type": "temporal",
+      "axis": {
+        "title": "Year",
+        "format": "%Y"}
+      },
+
+    "y": {
+      "field": "Value", 
+      "type": "quantitative",
+      "axis": {"title": "Annual percentage change"}
+      },
+
+    "color": {
+      "field": "Name", 
+      "type": "nominal"
+      },
+
+    "tooltip": [
+      {"field": "Date", "type": "temporal", "format": "%Y"},
+      {"field": "Value", "type": "quantitative"}
+    ]  
+
+  }
+}
