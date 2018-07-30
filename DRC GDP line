@@ -47,10 +47,10 @@
             },
     
     "tooltip": [
-      {"field": "Date", "type": "temporal", "format": "%Y"},
+      {"field": "Year", "type": "ordinal", "format": "%Y"},
       {"field": "Variable", "type": "ordinal"},
       {"field": "Value", "type": "quantitative", "format": "$.2f"}
     ]        
-    
+
   }
 }
