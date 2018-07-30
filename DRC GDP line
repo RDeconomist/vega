@@ -1,0 +1,56 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+
+  "description": "DRC GDP decomposed",
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/vega/master/DRC%2C%20GDP.csv"
+    },
+
+  "config":{
+    "background": "#FAFAFA"
+  },
+
+  "height": 500,
+  "width": 500,
+
+  "mark": {
+    "type": "line",
+    "opacity": "0.4",
+    "interpolate": "", 
+    "color": "navy", 
+    
+    "point": {
+      "color": "black",
+      "size": "50"}
+  },
+
+  "title": "GDP components of Congo/Zaire",
+
+  "encoding": {
+
+    "x": {
+      "field": "Year", 
+      "type": "ordinal",
+      "axis": {"title": "Year"}
+      },
+
+    "y": {
+      "field": "Value", 
+      "type": "quantitative",
+      "axis": {"title": "Billions of dollars"}
+      },
+
+    "color": {
+      "field": "Variable", 
+      "type": "nominal"
+            },
+    
+    "tooltip": [
+      {"field": "Date", "type": "temporal", "format": "%Y"},
+      {"field": "Variable", "type": "ordinal"},
+      {"field": "Value", "type": "quantitative", "format": "$.2f"}
+    ]        
+    
+  }
+}
