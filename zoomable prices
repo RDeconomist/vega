@@ -1,0 +1,32 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+  
+  "description": "Vodka prices zoom-able",
+
+  "title": "Price of vodka shot in London",
+  
+  "height": 500,
+  "width": 500,
+  
+  "mark": "point",
+  
+  "encoding": {
+    "x": {"field": "date", "type": ""},
+    "y": {"field": "price", "type": "quantitative"},
+    "size": {"value": 1},
+    "color": {"value": "#DC143C"}
+  },
+
+  
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/vega/master/vodkaprices3.csv",
+    "type": "csv"},
+
+
+  "COMMENT": "THIS NEXT BIT MAKES THE CHART ZOOMABLE",
+  "selection": {
+    "grid": {
+      "type": "interval", "bind": "scales"
+    }
+  }  
+  } 
