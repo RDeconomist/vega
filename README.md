@@ -1,2 +1,2 @@
-# vega
-Vega data, and Vega code
+# vega-data
+Vega data
