@@ -1,4 +1,4 @@
-State,State2,Firearm Death Rate,"Firearms, vs average",Median income,"Income, vs median",Imprisonment rates,Prison rate,Imprisonment rate,Firearm deaths,Division
+State,State2,Death Rate,"Firearms, vs average",Med income,"Income, vs median",Imprisonment rates,Prison rate,Imprisonment rate,Firearm deaths,Division
 Alaska,AK,23.3,1.784893519,75723,1.282592862,376,0.64604811,0.376,0.233,West
 Alabama,AL,21.5,1.64700475,47221,0.799827233,736,1.264604811,0.736,0.215,South
 Louisiana,LA,21.3,1.631683775,42196,0.714714003,997,1.713058419,0.997,0.213,South
