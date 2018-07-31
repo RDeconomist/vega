@@ -1,0 +1,82 @@
+{
+
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+  
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/vega/master/ShillerIE%2C%20wide.csv"
+    },
+ 
+
+  "title":{
+    "text": "US ECONOMY | SHILLER DATA | STOCK PRICES AND EARNINGS",
+    "anchor": "start",
+    "color" : "Navy",
+    "font": "Arial"   
+  },
+
+
+  "height": 500,
+  "width": 500,
+ 
+  
+
+  "layer": [
+    {
+    "mark": {
+    "type": "line",
+    "interpolate": "", 
+    "color": "navy", 
+    
+    "point": {
+      "color": "black",
+      "size": ""}
+    },
+ 
+ 
+  "encoding": {
+    "x": {
+      "field": "Date", 
+      "type": "temporal", 
+      "axis": {"format": "%Y"}},
+     
+    "y": {
+      "field": "Price", 
+      "type": "quantitative",
+      "aggregate": ""}
+ 
+  }
+  
+  },
+
+{
+ 
+   "mark": {
+    "type": "line",
+    "interpolate": "basis", 
+    "color": "red", 
+    
+    "point": {
+      "color": "",
+      "size": "0"}
+    },
+ 
+ 
+  "encoding": {
+    "x": {
+      "field": "Date", 
+      "type": "temporal", 
+      "axis": {"format": "%Y"}},
+     
+    "y": {
+      "field": "Earnings", 
+      "type": "quantitative",
+      "aggregate": ""}
+ 
+  }
+}
+  ],
+
+"resolve": {"scale": {"y": "independent"}}
+
+}
