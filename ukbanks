@@ -1,0 +1,78 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+
+
+  "description": "RAPID CHARTS BANKS LINE",
+
+
+  "title": {
+    "text": "RAPID CHARTS | FTSE-100 | 5 banks",
+    "anchor": "start",
+    "color": "navy"
+  },
+
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/vega/master/FTSEbanks.csv"
+    },
+
+
+  "config":{
+    "background": "#FAFAFA"
+  },
+
+
+  "height": 500,
+  "width": 500,
+
+
+  "mark": {
+    "type": "line",
+    "opacity": "1",
+    "interpolate": "", 
+    "color": "navy", 
+    
+    "point": {
+      "color": "black",
+      "size": "0"}
+  },
+
+  
+
+  "encoding": {
+
+    "x": {
+      "field": "Time", 
+      "type": "quantitative",
+      "axis": {
+        "title": "Minutes since market open",
+        "grid": false
+        }
+      },
+
+    "y": {
+      "field": "Change", 
+      "type": "quantitative",
+      "axis": {
+        "title": "Percentage change since market open",
+        "grid": false
+        },
+      "scale": {"domain": [-0.05, 0.02]},
+      "format": ".2f"
+      },
+
+
+    "color": {
+      "field": "Ticker", 
+      "type": "nominal"
+            },
+    
+
+    "tooltip": [
+      {"field": "Time", "type": "ordinal", "format": "%Y"},
+      {"field": "Change", "type": "quantitative", "format": ".2f"},
+      {"field": "Ticker", "type": "ordinal", "format": "$.2f"}
+    ]        
+
+  }
+}
