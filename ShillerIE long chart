@@ -75,3 +75,6 @@
       {"field": "Date", "type": "temporal", "format": "%Y"},
       {"field": "Value", "type": "quantitative", "format": ".2f"},
       {"field": "Measure", "type": "ordinal", "format": "$.2f"}
+    ]
+  }
+}
