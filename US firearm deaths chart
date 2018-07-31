@@ -4,7 +4,7 @@
   "description": "US States, Gun deaths",
 
   "data": {
-    "url": "https://raw.githubusercontent.com/RDeconomist/vega/master/US%2C%20firearm%20deaths%20and%20income.csv"
+    "url": "https://raw.githubusercontent.com/RDeconomist/vega/master/US%20firearm%20deaths.csv"
     },
 
   "config":{
