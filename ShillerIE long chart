@@ -1,0 +1,77 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+
+
+  "description": "SHILLER DATA, ONE AXIS",
+
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/vega/master/ShillerIE.csv"
+    },
+
+
+
+  "title": {
+    "text": "US ECONOMY | SHILLER DATA | 1870-2018",
+    "anchor": "start",
+    "color": "black"
+  },
+
+
+  
+
+  "config":{
+    "background": "#FAFAFA"
+  },
+
+
+  "height": 500,
+  "width": 500,
+
+
+  "mark": {
+    "type": "line",
+    "opacity": "1",
+    "interpolate": "", 
+    "color": "navy", 
+    
+    "point": {
+      "color": "black",
+      "size": "0"}
+  },
+
+  
+
+  "encoding": {
+
+    "x": {
+      "field": "Date", 
+      "type": "temporal",
+      "axis": {
+        "title": "Year",
+        "grid": false
+        }
+      },
+
+    "y": {
+      "field": "Value", 
+      "type": "quantitative",
+      "axis": {
+        "title": "Value",
+        "grid": false
+        },
+      "xscale": {"domain": [-0.05, 0.02]},
+      "format": ".2f"
+      },
+
+
+    "color": {
+      "field": "Measure", 
+      "type": "nominal"
+            },
+    
+
+    "tooltip": [
+      {"field": "Date", "type": "temporal", "format": "%Y"},
+      {"field": "Value", "type": "quantitative", "format": ".2f"},
+      {"field": "Measure", "type": "ordinal", "format": "$.2f"}
