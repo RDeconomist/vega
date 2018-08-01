@@ -1,7 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
 
-  "description": "US States, Gun deaths",
+  "description": "USA | FIREARM DEATHS BY STATE",
+
+  "title": {
+    "text": "USA | Firearm deaths and income, by state",
+    "anchor": "start"}, 
 
   "data": {
     "url": "https://raw.githubusercontent.com/RDeconomist/vega/master/US%20firearm%20deaths.csv"
@@ -17,16 +21,16 @@
   "mark": {    
     "type": "point",    
     "opacity": "1",
-    "interpolate": "", 
-    "color": "navy", 
-    "size":"400",
+    "XYZinterpolate": "", 
+    "color": "red", 
+    "size":"250",
     
     "XYZpoint": {
       "color": "black",
       "size": "50"}
   },
 
-  "title": "The USA: gun deaths and income",
+  
 
     "encoding": {
 
@@ -47,6 +51,12 @@
       "field": "Division", 
       "type": "nominal"
             },
+
+    "size": {
+      "field": "Imprisonment rates", 
+      "type": "quantitative"
+      },
+    
     
        
     "tooltip": [
