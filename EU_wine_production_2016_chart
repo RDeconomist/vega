@@ -1,0 +1,60 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+
+  "description": "Wine in the EU",
+
+  "height": 500,
+  "width": 500,
+
+   "title": {
+    "text": "WINE PRODUCTION | THE EU BIG THREE, AND THE REST",
+    "anchor": "start",
+    "color": "navy"
+  },
+
+    "config":{
+    "background": "#FAFAFA"
+  },
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/vega/master/EU_wine_production_2016_long.csv"
+    },
+
+  "mark": {
+    "type": "bar",
+    "opacity": 1,
+    "interpolate": "", 
+    "color": "navy"
+  },
+
+  
+  "encoding": {
+
+    "x": {
+      "field": "Country",
+      "sort":{
+        "field":"Volume",
+        "op":"mean",
+        "order":"descending"
+      }, 
+
+      "type": "ordinal",
+      "axis": {"title": "Country"}
+      },
+
+    "y": {
+      "field": "Volume", 
+      "type": "quantitative",
+      "axis": {"title": "Volume (1,000 hectoliters, 2016)"}
+      },
+
+    "XXcolor": {
+      "field": "Type", 
+      "type": "nominal",
+      "scale": {
+        "domain": ["White","Red & Rose"],
+        "range": ["FFFF66","990000"]
+      }
+    }         
+  }
+}
