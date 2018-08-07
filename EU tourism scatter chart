@@ -22,7 +22,7 @@
 
     "RD NOTES": "The final transform in the code will be the one that appears. So to alter the selection just move one down to the bottom. Alternatively you can block them out using xx",
 
-  "transform":[
+  "xxtransform":[
     {"filter": {"field": "Type", "oneOf": ["Total"]}}
     ],
 
@@ -30,14 +30,19 @@
     {"filter": {"field": "Type", "oneOf": ["Transport","Accomodation", "Eating out", "Other" ]}}
     ],
 
-  
+"selection": {
+    "grid": {
+      "type": "interval", 
+      "bind": "scales"
+    }
+},  
 
   "mark": {
     "type": "point",
-    "size": 600,
-    "color": "green",
+    "size": 100,
+    "color": "red",
     "opacity": 1,
-    "fill": "green",
+    "xfill": "red",
     "fillOpacity": 0.5
   },
 
@@ -62,7 +67,7 @@
       "axis": {"title": "Overseas trips"}
       },
 
-    "xxcolor": {
+    "color": {
       "field": "Type", 
       "type": "nominal",
       "xxscale": {
@@ -76,7 +81,5 @@
       {"field": "2016, abroad", "type": "quantitative"},
       {"field": "2016, domestic", "type": "quantitative", "format": ".2f"}
     ]   
-
-
     }         
   }
