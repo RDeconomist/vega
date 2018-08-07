@@ -1,0 +1,82 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+
+  "description": "Wine in the EU",
+
+  "height": 450,
+  "width": 450,
+
+   "title": {
+    "text": "EU TOURISTS | SPENDING PER TRIP, AT HOME AND ABROAD",
+    "anchor": "start",
+    "color": "navy"
+  },
+
+    "config":{
+    "background": "#FAFAFA"
+  },
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/vega/master/EU%20tourism%2C%20wide.csv"
+    },
+
+    "RD NOTES": "The final transform in the code will be the one that appears. So to alter the selection just move one down to the bottom. Alternatively you can block them out using xx",
+
+  "xxtransform":[
+    {"filter": {"field": "Type", "oneOf": ["Total"]}}
+    ],
+
+  "xxtransform":[
+    {"filter": {"field": "Type", "oneOf": ["Transport","Accomodation", "Eating out", "Other" ]}}
+    ],
+
+  
+
+  "mark": {
+    "type": "point",
+    "size": 40,
+    "color": "red",
+    "opacity": 1,
+    "xfill": "red",
+    "fillOpacity": 0.5
+  },
+
+  
+  "encoding": {
+
+    "x": {
+      "field": "2016, domestic",
+      "xxsort":{
+        "field":"2016",
+        "op":"mean",
+        "order":"descending"
+      }, 
+
+      "type": "quantitative",
+      "axis": {"title": "Domestic trips"}
+      },
+
+    "y": {
+      "field": "2016, abroad", 
+      "type": "quantitative",
+      "axis": {"title": "Overseas trips"}
+      },
+
+    "color": {
+      "field": "Type", 
+      "type": "nominal",
+      "xxscale": {
+        "domain": ["White","Red & Rose"],
+        "range": ["Yellow","Red"]
+      },
+    
+    "tooltip": [
+      {"field": "Country", "type": "ordinal"},
+      {"field": "2016, abroad", "type": "quantitative"},
+      {"field": "GDP", "type": "quantitative", "format": "$.2f"}
+    ]   
+
+
+    }         
+  }
+}
