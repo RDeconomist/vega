@@ -1,0 +1,349 @@
+Type,Location,Country,2012,2013,2014,2015,2016
+Accomodation,Domestic,Austria,214.41,165.67,140.13,160.4,169.72
+Accomodation,Abroad,Austria,379.05,390.5,366.44,370.12,359.84
+Eating out,Domestic,Austria,:,:,:,:,:
+Eating out,Abroad,Austria,:,:,:,:,:
+Other,Domestic,Austria,70.73,105.82,119.19,127.93,133.84
+Other,Abroad,Austria,164.24,194.95,212.85,216.11,221.79
+Shopping,Domestic,Austria,3.87,3.86,4.87,3.58,5.68
+Shopping,Abroad,Austria,8.27,14.97,22.37,18.49,13.2
+Total,Domestic,Austria,343.93,341.63,328.68,357.64,372.58
+Total,Abroad,Austria,814.44,906.75,898.9,892.92,873.52
+Transport,Domestic,Austria,58.79,70.14,69.37,69.31,69.02
+Transport,Abroad,Austria,271.14,321.29,319.62,306.69,291.89
+Accomodation,Domestic,Belgium,101.56,102.71,98.32,84.36,98.02
+Accomodation,Abroad,Belgium,290.57,308.28,263.04,272.46,231.25
+Eating out,Domestic,Belgium,:,0,0,0,77.84
+Eating out,Abroad,Belgium,:,0,0,0,130.14
+Other,Domestic,Belgium,95,102.32,89.72,92.3,26.8
+Other,Abroad,Belgium,198.33,247.72,236,239.5,83.17
+Shopping,Domestic,Belgium,13.94,11.09,7.8,7.82,7.93
+Shopping,Abroad,Belgium,23.92,21.74,19.8,14.66,10.75
+Total,Domestic,Belgium,227.15,232.78,215.45,197.23,231.06
+Total,Abroad,Belgium,663.72,811.1,703.87,698.08,704.88
+Transport,Domestic,Belgium,30.59,27.75,27.4,20.57,28.4
+Transport,Abroad,Belgium,174.82,255.1,204.84,186.11,260.32
+Accomodation,Domestic,Bulgaria,24.93,26.43,32.34,31.14,31.32
+Accomodation,Abroad,Bulgaria,86.7,99.69,92.37,90.27,84.25
+Eating out,Domestic,Bulgaria,39.39,40.46,45.04,49.75,48.08
+Eating out,Abroad,Bulgaria,88.6,87.62,70.12,98.3,106.48
+Other,Domestic,Bulgaria,12,10.06,10.97,14.1,15.13
+Other,Abroad,Bulgaria,63.95,34.19,26.29,52.4,60
+Shopping,Domestic,Bulgaria,0,0,0,0,0
+Shopping,Abroad,Bulgaria,0,0,0,0,0
+Total,Domestic,Bulgaria,104.13,106.76,123.07,121.38,118.5
+Total,Abroad,Bulgaria,366.03,329.26,318.98,374.83,384.68
+Transport,Domestic,Bulgaria,27.82,29.81,34.72,26.39,23.97
+Transport,Abroad,Bulgaria,126.78,107.77,130.2,133.87,133.95
+Accomodation,Domestic,Croatia,36.07,34.68,26.53,40.49,47.79
+Accomodation,Abroad,Croatia,103.68,117.68,114.9,121.97,119.04
+Eating out,Domestic,Croatia,26.34,24.88,32.98,40.78,50.88
+Eating out,Abroad,Croatia,57.69,63.51,86.22,103.12,94.78
+Other,Domestic,Croatia,27.37,52.54,29.84,33.82,26.37
+Other,Abroad,Croatia,74.32,133.01,74.82,81.37,60.69
+Shopping,Domestic,Croatia,3.03,1.11,0.66,0,1.16
+Shopping,Abroad,Croatia,8.27,8.51,6.94,1.44,2.04
+Total,Domestic,Croatia,140.13,152.05,128.35,161.85,176.28
+Total,Abroad,Croatia,370.71,427.9,427.3,505.6,430.54
+Transport,Domestic,Croatia,50.35,39.95,38.99,46.75,51.24
+Transport,Abroad,Croatia,135,113.69,151.35,199.14,156.04
+Accomodation,Domestic,Cyprus,44.14,31.8,37.12,35.78,31.88
+Accomodation,Abroad,Cyprus,211.76,202.43,205.19,206.52,204.13
+Eating out,Domestic,Cyprus,:,76.88,65.72,40.47,43.59
+Eating out,Abroad,Cyprus,:,291.79,269.08,263.37,215.81
+Other,Domestic,Cyprus,2.28,4.89,18.62,16.35,31.04
+Other,Abroad,Cyprus,145.05,116.09,168.94,186.69,239.18
+Shopping,Domestic,Cyprus,0.69,0,0,0,0.02
+Shopping,Abroad,Cyprus,8.91,11.46,3.93,2.28,4.4
+Total,Domestic,Cyprus,71.33,136.91,147.62,115.62,121.4
+Total,Abroad,Cyprus,672.47,939.43,957.55,960.25,990.46
+Transport,Domestic,Cyprus,24.9,23.34,26.16,23.02,14.9
+Transport,Abroad,Cyprus,315.65,329.12,314.34,303.67,331.34
+Accomodation,Domestic,Czech Republic,12.64,13.4,10.3,15.02,17.57
+Accomodation,Abroad,Czech Republic,103.91,108.13,100.8,105.06,120.24
+Eating out,Domestic,Czech Republic,13.17,14.2,11.03,16.6,14.1
+Eating out,Abroad,Czech Republic,85.67,91.19,75.8,84.62,83.73
+Other,Domestic,Czech Republic,19.83,20.58,18.75,23.17,25.02
+Other,Abroad,Czech Republic,117.84,114.37,108.48,107.41,110.44
+Shopping,Domestic,Czech Republic,0,0.15,0.09,0.23,0.03
+Shopping,Abroad,Czech Republic,3.57,0.3,0.32,0.77,0.84
+Total,Domestic,Czech Republic,57.63,60.04,51.86,66.61,68.32
+Total,Abroad,Czech Republic,413.63,422.13,390.02,396.02,422.54
+Transport,Domestic,Czech Republic,11.99,11.86,11.78,11.82,11.63
+Transport,Abroad,Czech Republic,106.21,108.44,104.93,98.93,108.12
+Accomodation,Domestic,Denmark,46.65,66.03,76.09,75.63,86.4
+Accomodation,Abroad,Denmark,278.53,239.03,282.76,266.25,353.88
+Eating out,Domestic,Denmark,:,:,:,:,:
+Eating out,Abroad,Denmark,:,:,:,:,:
+Other,Domestic,Denmark,47.97,73.56,80.09,73.52,82.47
+Other,Abroad,Denmark,230.73,226.66,247.75,223.79,287.74
+Shopping,Domestic,Denmark,16.28,24.48,27.62,24.94,28.38
+Shopping,Abroad,Denmark,77.18,78.84,87.65,78.4,104.71
+Total,Domestic,Denmark,133.63,203.67,237.3,211.01,237.81
+Total,Abroad,Denmark,727.81,657.62,737.73,672.38,880.52
+Transport,Domestic,Denmark,39.01,64.08,81.13,61.85,68.94
+Transport,Abroad,Denmark,218.55,191.93,207.23,182.34,238.89
+Accomodation,Domestic,Estonia,14.5,13.51,15.33,18.52,19.82
+Accomodation,Abroad,Estonia,171.77,176.67,200.91,146.82,156.13
+Eating out,Domestic,Estonia,13.06,15.39,16.64,19.03,18.37
+Eating out,Abroad,Estonia,41.48,76.88,83.07,117.34,106.04
+Other,Domestic,Estonia,8.61,11.09,10.58,17.11,16.06
+Other,Abroad,Estonia,26.79,60.36,53.58,92.34,97.09
+Shopping,Domestic,Estonia,1.92,4.81,4.11,0.14,0.26
+Shopping,Abroad,Estonia,18.32,23.4,33.1,10.89,6.13
+Total,Domestic,Estonia,60.22,64.82,65.62,80.7,76.62
+Total,Abroad,Estonia,371.97,466.34,482.52,574.7,566.15
+Transport,Domestic,Estonia,24.04,24.83,23.08,26.04,22.36
+Transport,Abroad,Estonia,131.93,152.42,144.96,218.21,206.89
+Accomodation,Domestic,Finland,43.61,41.42,41.14,39.49,43.25
+Accomodation,Abroad,Finland,230.01,224.32,221.71,221.44,222.09
+Eating out,Domestic,Finland,37.69,37.49,35.71,37.18,37.3
+Eating out,Abroad,Finland,171.95,167.86,165.43,173.82,174.33
+Other,Domestic,Finland,54.82,55.58,55.08,56.67,55.03
+Other,Abroad,Finland,168.35,162.06,165.46,156.5,145.9
+Shopping,Domestic,Finland,4.77,5.29,10.44,1.82,6.35
+Shopping,Abroad,Finland,13.16,34.75,15.71,24.32,11.63
+Total,Domestic,Finland,199.56,194.23,189.69,190.02,188.7
+Total,Abroad,Finland,901.01,872.87,869.84,864.99,852.32
+Transport,Domestic,Finland,63.44,59.74,57.75,56.68,53.12
+Transport,Abroad,Finland,330.7,318.63,317.24,313.23,310
+Accomodation,Domestic,France,64.17,65.78,67.24,70.1,73.05
+Accomodation,Abroad,France,274.8,283.5,288.85,288.74,318.66
+Eating out,Domestic,France,46.08,45.98,47.49,47.85,50.08
+Eating out,Abroad,France,161.38,163.38,161.73,162.04,174.65
+Other,Domestic,France,79.17,80.86,83.31,85.43,86.02
+Other,Abroad,France,170.24,176.17,176.4,169.4,178.76
+Shopping,Domestic,France,10.87,11.26,11.46,12.98,12.97
+Shopping,Abroad,France,87.51,82.46,81.49,84.21,87.19
+Total,Domestic,France,255.31,258.47,264.66,269.17,273.85
+Total,Abroad,France,966.78,991,985.56,974.64,1017.39
+Transport,Domestic,France,65.9,65.86,66.63,65.79,64.7
+Transport,Abroad,France,360.37,367.94,358.58,354.45,345.32
+Accomodation,Domestic,Germany,105.79,113.29,111.05,108.78,110.84
+Accomodation,Abroad,Germany,373.54,374.19,366.37,331.71,354.12
+Eating out,Domestic,Germany,:,:,:,:,:
+Eating out,Abroad,Germany,:,:,:,:,:
+Other,Domestic,Germany,64.36,70.77,69.79,69.59,69.53
+Other,Abroad,Germany,147.65,154.63,154.07,168.46,162.3
+Shopping,Domestic,Germany,17.28,16.76,16.6,12.44,15.56
+Shopping,Abroad,Germany,54.97,39.93,39.37,40,38.93
+Total,Domestic,Germany,265.23,274.23,271.74,268.18,260.78
+Total,Abroad,Germany,876.09,875.85,838.06,841.63,848.07
+Transport,Domestic,Germany,95.07,90.17,90.89,89.82,80.41
+Transport,Abroad,Germany,354.9,347.04,317.62,341.46,331.66
+Accomodation,Domestic,Greece,39.1,43.46,42.95,43.48,46.39
+Accomodation,Abroad,Greece,87.99,128.52,103.32,101.75,135.54
+Eating out,Domestic,Greece,69.75,79.9,83.18,94.77,102.32
+Eating out,Abroad,Greece,112.63,151.98,139.47,149.52,172.06
+Other,Domestic,Greece,21.58,74.72,68.22,63.61,69.38
+Other,Abroad,Greece,45.53,126.91,102.23,104.05,115.23
+Shopping,Domestic,Greece,54.31,0.52,1.47,0.79,0.82
+Shopping,Abroad,Greece,124.06,3.97,4.07,5,6.32
+Total,Domestic,Greece,184.21,261.13,254.28,260.9,280.38
+Total,Abroad,Greece,449.31,630.42,553.37,529.43,639.15
+Transport,Domestic,Greece,53.78,63.05,59.93,59.03,62.29
+Transport,Abroad,Greece,203.15,223.01,208.36,174.11,216.33
+Accomodation,Domestic,Hungary,22.36,26.7,29.04,28.8,31.91
+Accomodation,Abroad,Hungary,78.22,71.99,64.46,66.54,62.04
+Eating out,Domestic,Hungary,6.11,6.95,7.01,7.29,7.48
+Eating out,Abroad,Hungary,58.95,50.77,56.18,55.05,56.94
+Other,Domestic,Hungary,15.86,17.31,17.33,18.35,18.22
+Other,Abroad,Hungary,133.03,135.84,134.37,125.3,130.26
+Shopping,Domestic,Hungary,0.21,0.16,0.64,0.19,0.18
+Shopping,Abroad,Hungary,5.99,2.94,4.33,6.72,7.13
+Total,Domestic,Hungary,57.47,64.81,67.03,67.33,70.74
+Total,Abroad,Hungary,307.7,303.88,328.48,312.59,311.53
+Transport,Domestic,Hungary,13.15,13.85,13.65,12.88,13.13
+Transport,Abroad,Hungary,37.49,45.29,73.48,65.7,62.28
+Accomodation,Domestic,Ireland,72.73,72.55,74.46,74.13,78.27
+Accomodation,Abroad,Ireland,234.5,226.19,248.15,261.3,268.58
+Eating out,Domestic,Ireland,:,:,:,:,:
+Eating out,Abroad,Ireland,:,:,:,:,:
+Other,Domestic,Ireland,89.16,90.42,95.26,91.55,92.52
+Other,Abroad,Ireland,297.06,305.32,296.6,312.74,308.97
+Shopping,Domestic,Ireland,5.67,7.39,5.49,4.37,6.26
+Shopping,Abroad,Ireland,20.29,14.95,14.35,19.05,14.51
+Total,Domestic,Ireland,198.7,199.23,205.39,197.92,202.03
+Total,Abroad,Ireland,814.77,824.29,848.72,866.32,875.36
+Transport,Domestic,Ireland,36.81,36.25,35.67,32.25,31.25
+Transport,Abroad,Ireland,283.2,292.78,303.97,292.28,297.81
+Accomodation,Domestic,Italy,120.5,120.87,92.12,121.65,116.27
+Accomodation,Abroad,Italy,286.3,283.3,182.89,197.68,216.31
+Eating out,Domestic,Italy,:,:,:,:,:
+Eating out,Abroad,Italy,:,:,:,:,:
+Other,Domestic,Italy,117.57,119.46,82.81,99.42,110.41
+Other,Abroad,Italy,239.57,249.91,205.68,199.84,203.29
+Shopping,Domestic,Italy,0.69,0.23,6.34,2.63,1.02
+Shopping,Abroad,Italy,0.41,0,3.49,3.08,1.28
+Total,Domestic,Italy,321.09,318.05,235.85,294.38,299.19
+Total,Abroad,Italy,805.51,820.47,637.26,664.06,652.52
+Transport,Domestic,Italy,83.03,77.71,60.92,73.32,72.5
+Transport,Abroad,Italy,279.64,287.26,248.69,266.54,232.91
+Accomodation,Domestic,Latvia,3.59,6.6,7.06,5.27,4.52
+Accomodation,Abroad,Latvia,65.96,110.11,113.04,118.18,103.52
+Eating out,Domestic,Latvia,2.47,5.59,4.71,6.14,4.57
+Eating out,Abroad,Latvia,22.15,40.28,27.76,38.53,36.54
+Other,Domestic,Latvia,15.82,14.03,13.63,14.18,14.38
+Other,Abroad,Latvia,89.54,87.86,61.55,79.52,72.81
+Shopping,Domestic,Latvia,0.27,0.92,0.15,0.3,0
+Shopping,Abroad,Latvia,14.22,4.89,4.58,4.57,3.1
+Total,Domestic,Latvia,35.29,41.13,38.73,40.07,36.26
+Total,Abroad,Latvia,331.24,381.28,342.7,355.4,340.95
+Transport,Domestic,Latvia,13.4,14.91,13.33,14.47,12.79
+Transport,Abroad,Latvia,153.59,143.03,140.35,119.17,128.08
+Accomodation,Domestic,Lithuania,13.8,14.88,21.47,27.81,31.49
+Accomodation,Abroad,Lithuania,93.14,102.4,125.53,133.26,152.55
+Eating out,Domestic,Lithuania,11.31,13.36,10.67,11.48,12.15
+Eating out,Abroad,Lithuania,61.62,50.86,52.62,51.91,53.09
+Other,Domestic,Lithuania,10.43,9.67,8.18,5.97,7.36
+Other,Abroad,Lithuania,165.33,180.11,116.71,95.75,99.86
+Shopping,Domestic,Lithuania,0.24,0.58,0.49,0.52,0.59
+Shopping,Abroad,Lithuania,12.12,0.7,3.02,4.64,9.54
+Total,Domestic,Lithuania,46.37,49.44,51.94,60.8,67.16
+Total,Abroad,Lithuania,431.98,452.17,439.13,436.7,449.19
+Transport,Domestic,Lithuania,10.83,11.53,11.62,15.54,16.16
+Transport,Abroad,Lithuania,111.88,118.8,144.26,155.78,143.7
+Accomodation,Domestic,Luxembourg,60.69,41.5,166.66,152.51,194.52
+Accomodation,Abroad,Luxembourg,252.19,261.77,276.92,252.49,255.72
+Eating out,Domestic,Luxembourg,41.81,40.09,64.14,165.69,163.65
+Eating out,Abroad,Luxembourg,176.73,170.83,174.11,214.3,230.61
+Other,Domestic,Luxembourg,12.64,42.35,50.92,53.25,49.46
+Other,Abroad,Luxembourg,71.09,81.8,101.03,99.21,96.99
+Shopping,Domestic,Luxembourg,1.25,2.35,0,0,7.75
+Shopping,Abroad,Luxembourg,7.74,12.89,6.16,4.07,1.82
+Total,Domestic,Luxembourg,153.36,192.2,473.33,517.7,537.9
+Total,Abroad,Luxembourg,766.82,779.98,805.48,781.65,814.39
+Transport,Domestic,Luxembourg,38.22,68.26,191.61,146.25,130.27
+Transport,Abroad,Luxembourg,266.81,265.58,253.42,215.65,231.07
+Accomodation,Domestic,Malta,59.59,44.28,55.29,48.43,53.67
+Accomodation,Abroad,Malta,232.63,230.28,244.57,268.75,251
+Eating out,Domestic,Malta,:,:,:,:,:
+Eating out,Abroad,Malta,:,:,:,:,:
+Other,Domestic,Malta,57.41,68.79,84.29,83.98,99.75
+Other,Abroad,Malta,544.97,542.52,394.77,396.81,462.1
+Shopping,Domestic,Malta,0,0,4.33,0.13,0.63
+Shopping,Abroad,Malta,0,0,62.88,46.12,50.45
+Total,Domestic,Malta,125.98,122.25,150.51,142.6,164.07
+Total,Abroad,Malta,1041.66,1020.15,877.43,897.58,911.58
+Transport,Domestic,Malta,8.98,9.17,10.93,10.2,10.65
+Transport,Abroad,Malta,264.06,247.36,238.09,232.01,198.48
+Accomodation,Domestic,Netherlands,46.76,49.2,49.09,55.91,62.27
+Accomodation,Abroad,Netherlands,264,262.39,246.17,249.61,259.09
+Eating out,Domestic,Netherlands,22.11,23.35,22.51,25.16,27.9
+Eating out,Abroad,Netherlands,105.3,102.14,97.44,97.79,100.27
+Other,Domestic,Netherlands,13.56,15.07,24.05,25.28,26.88
+Other,Abroad,Netherlands,74.47,71.59,93.58,86.23,97.64
+Shopping,Domestic,Netherlands,12.3,13.27,0.84,0.51,1.91
+Shopping,Abroad,Netherlands,51.81,53.47,17.2,11.94,19.7
+Total,Domestic,Netherlands,103.94,109.23,118.95,129.26,140.76
+Total,Abroad,Netherlands,710.85,705.41,680.41,673.97,694.83
+Transport,Domestic,Netherlands,21.51,21.6,23.3,22.9,23.7
+Transport,Abroad,Netherlands,267.09,269.29,243.21,240.34,237.83
+Accomodation,Domestic,Poland,59.51,62.38,30.77,35.68,37.55
+Accomodation,Abroad,Poland,194.09,238.06,134.57,138.93,139.22
+Eating out,Domestic,Poland,49.55,50.57,32.32,35.8,38.5
+Eating out,Abroad,Poland,142.72,125.76,105.6,106.28,111
+Other,Domestic,Poland,36.01,21.46,21.31,21.53,20.89
+Other,Abroad,Poland,135.66,63.53,84.76,84.51,92.36
+Shopping,Domestic,Poland,7.17,4.88,0.43,0.47,0.25
+Shopping,Abroad,Poland,29.03,42.32,4.79,4.04,2.74
+Total,Domestic,Poland,196.93,175.37,105.47,115.09,119.17
+Total,Abroad,Poland,757.73,636.33,495.13,502.03,508.9
+Transport,Domestic,Poland,51.86,40.96,21.07,22.08,22.23
+Transport,Abroad,Poland,285.26,208.97,170.19,172.31,166.33
+Accomodation,Domestic,Portugal,19.81,15.75,21.89,26.47,23.41
+Accomodation,Abroad,Portugal,143.11,103.27,132.85,141.91,163.36
+Eating out,Domestic,Portugal,21.53,19.32,30.15,38.69,36.01
+Eating out,Abroad,Portugal,56.76,68.58,96.14,143.24,124.15
+Other,Domestic,Portugal,17.91,20.55,24.31,21.48,18.58
+Other,Abroad,Portugal,34.76,36.76,136.19,157.49,51.18
+Shopping,Domestic,Portugal,0.83,1.15,1.54,3.13,1.08
+Shopping,Abroad,Portugal,2.95,1.15,1.93,3.76,1.07
+Total,Domestic,Portugal,84.02,79.48,103.11,111.99,106.53
+Total,Abroad,Portugal,392.65,408.7,549.89,590.55,489.6
+Transport,Domestic,Portugal,24.77,23.85,26.75,25.35,28.53
+Transport,Abroad,Portugal,158.02,200.09,184.71,147.91,150.91
+Accomodation,Domestic,Romania,23.26,18.76,19.06,23.03,23.67
+Accomodation,Abroad,Romania,129.69,89.75,87.22,101.37,91.31
+Eating out,Domestic,Romania,22.22,23.71,24.02,26.14,29.78
+Eating out,Abroad,Romania,67.66,72.39,54.75,71.01,67.87
+Other,Domestic,Romania,24.51,19.78,18.65,19.58,22
+Other,Abroad,Romania,101.68,61.02,56.76,53.42,66.77
+Shopping,Domestic,Romania,0.04,0.11,0.12,0.13,0.15
+Shopping,Abroad,Romania,1.03,1.51,5.09,4.99,2.3
+Total,Domestic,Romania,87.88,90.52,91.4,100.57,108.79
+Total,Abroad,Romania,423.06,369.4,362.96,388.1,378.26
+Transport,Domestic,Romania,17.89,28.27,29.67,31.82,33.34
+Transport,Abroad,Romania,124.03,146.24,164.23,162.3,152.31
+Accomodation,Domestic,Slovakia,56.82,37.9,45.69,46.24,46.07
+Accomodation,Abroad,Slovakia,163.41,199.16,153.03,176.81,152.9
+Eating out,Domestic,Slovakia,:,24.23,25.17,26.69,26.61
+Eating out,Abroad,Slovakia,:,86.08,77.49,109.82,103.53
+Other,Domestic,Slovakia,93.33,35.64,33.58,38.5,35.64
+Other,Abroad,Slovakia,244.87,124.01,111.99,106.66,92.32
+Shopping,Domestic,Slovakia,8.48,2.45,1.92,1.3,0.96
+Shopping,Abroad,Slovakia,25.9,12.09,7.46,4.3,4.37
+Total,Domestic,Slovakia,191.77,118.65,133.16,130.77,128.61
+Total,Abroad,Slovakia,580.58,567.93,482.56,551.46,468.63
+Transport,Domestic,Slovakia,41.62,20.88,28.72,19.33,20.29
+Transport,Abroad,Slovakia,172.3,158.68,140.05,158.17,119.88
+Accomodation,Domestic,Slovenia,41.68,39.82,43.53,54.07,54.88
+Accomodation,Abroad,Slovenia,117.18,102.14,110.23,125.14,121.22
+Eating out,Domestic,Slovenia,16.97,17.35,19.54,18.54,20.15
+Eating out,Abroad,Slovenia,55.16,46.06,47.01,53.31,52.58
+Other,Domestic,Slovenia,18.51,21.56,21.86,20.36,21.91
+Other,Abroad,Slovenia,54.73,59.62,53.93,51.25,55.68
+Shopping,Domestic,Slovenia,0.09,0.11,0,0.01,0.01
+Shopping,Abroad,Slovenia,1.54,1.42,0.89,2.83,0.39
+Total,Domestic,Slovenia,95.61,96.93,102.38,110.52,113.51
+Total,Abroad,Slovenia,339,307.85,318.89,327.64,335.05
+Transport,Domestic,Slovenia,18.45,18.2,17.44,17.56,16.58
+Transport,Abroad,Slovenia,111.93,100.03,107.72,97.94,105.57
+Accomodation,Domestic,Spain,30.12,32.82,31.5,41.3,46.08
+Accomodation,Abroad,Spain,133.29,161.69,156.62,202.68,243.77
+Eating out,Domestic,Spain,23.33,24.5,25.43,53.01,49.05
+Eating out,Abroad,Spain,73.92,83.29,85.92,180.57,171.23
+Other,Domestic,Spain,60.18,61.49,60.21,32.56,44.3
+Other,Abroad,Spain,249.52,268.68,260.25,143.35,164.42
+Shopping,Domestic,Spain,6.09,0.73,1.19,5.02,3.09
+Shopping,Abroad,Spain,73.22,3.91,2.08,16.33,5.78
+Total,Domestic,Spain,140.09,147.7,146.73,170.52,181.73
+Total,Abroad,Spain,611.59,700.95,687.4,820.22,905.09
+Transport,Domestic,Spain,26.46,28.9,29.58,43.64,42.31
+Transport,Abroad,Spain,154.87,187.27,184.61,293.63,325.67
+Accomodation,Domestic,Sweden,:,:,49.12,47.19,65.04
+Accomodation,Abroad,Sweden,:,:,125.81,184.3,196.94
+Eating out,Domestic,Sweden,:,:,:,:,:
+Eating out,Abroad,Sweden,:,:,:,:,:
+Other,Domestic,Sweden,:,:,52.2,60.06,60.35
+Other,Abroad,Sweden,:,:,140.39,162.11,171.66
+Shopping,Domestic,Sweden,:,:,6.34,5.4,9.35
+Shopping,Abroad,Sweden,:,:,0,0,0
+Total,Domestic,Sweden,:,:,139.46,153.85,162.56
+Total,Abroad,Sweden,:,:,603.74,673.31,517.27
+Transport,Domestic,Sweden,:,:,38.14,46.6,37.18
+Transport,Abroad,Sweden,:,:,337.54,326.89,148.67
+Accomodation,Domestic,Switzerland,134.19,157.83,150.87,152.46,173.3
+Accomodation,Abroad,Switzerland,377.92,370.72,343.34,343.38,378.18
+Eating out,Domestic,Switzerland,87.75,85.25,95.7,88.88,108.37
+Eating out,Abroad,Switzerland,159.73,167.35,170.7,195.53,224.97
+Other,Domestic,Switzerland,37.52,47.52,38.88,40.97,44.45
+Other,Abroad,Switzerland,100.12,122.54,90.81,124.51,113.59
+Shopping,Domestic,Switzerland,:,:,3.32,1.34,3.32
+Shopping,Abroad,Switzerland,:,:,13.26,12.48,9.3
+Total,Domestic,Switzerland,302.21,336.28,326.82,325.43,365.98
+Total,Abroad,Switzerland,983.4,978.11,893.88,1006.45,1053.42
+Transport,Domestic,Switzerland,42.75,45.67,41.37,43.12,39.87
+Transport,Abroad,Switzerland,345.62,317.51,289.05,343.02,336.68
+Accomodation,Domestic,United Kingdom,91.09,89.49,:,:,89.49
+Accomodation,Abroad,United Kingdom,331.84,374.49,:,:,374.49
+Eating out,Domestic,United Kingdom,52.54,51.55,:,:,51.55
+Eating out,Abroad,United Kingdom,0,0,:,:,0
+Other,Domestic,United Kingdom,21.94,20.02,:,:,20.02
+Other,Abroad,United Kingdom,85.93,69.87,:,:,69.87
+Shopping,Domestic,United Kingdom,39.05,35.39,:,:,35.39
+Shopping,Abroad,United Kingdom,286.48,37.51,:,:,37.51
+Total,Domestic,United Kingdom,223.32,215.78,:,:,215.78
+Total,Abroad,United Kingdom,526.1,728.71,:,:,728.71
+Transport,Domestic,United Kingdom,57.75,54.72,:,:,54.72
+Transport,Abroad,United Kingdom,108.33,284.35,:,:,284.35
