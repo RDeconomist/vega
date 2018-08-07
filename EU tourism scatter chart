@@ -22,7 +22,7 @@
 
     "RD NOTES": "The final transform in the code will be the one that appears. So to alter the selection just move one down to the bottom. Alternatively you can block them out using xx",
 
-  "xxtransform":[
+  "transform":[
     {"filter": {"field": "Type", "oneOf": ["Total"]}}
     ],
 
@@ -34,10 +34,10 @@
 
   "mark": {
     "type": "point",
-    "size": 40,
-    "color": "red",
+    "size": 600,
+    "color": "green",
     "opacity": 1,
-    "xfill": "red",
+    "fill": "green",
     "fillOpacity": 0.5
   },
 
@@ -62,21 +62,21 @@
       "axis": {"title": "Overseas trips"}
       },
 
-    "color": {
+    "xxcolor": {
       "field": "Type", 
       "type": "nominal",
       "xxscale": {
         "domain": ["White","Red & Rose"],
         "range": ["Yellow","Red"]
-      },
+      }
+    },
     
     "tooltip": [
       {"field": "Country", "type": "ordinal"},
       {"field": "2016, abroad", "type": "quantitative"},
-      {"field": "GDP", "type": "quantitative", "format": "$.2f"}
+      {"field": "2016, domestic", "type": "quantitative", "format": ".2f"}
     ]   
 
 
     }         
   }
-}
