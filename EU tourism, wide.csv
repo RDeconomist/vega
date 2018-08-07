@@ -1,0 +1,175 @@
+Type,Country,"2016, abroad","2016, domestic"
+Accomodation,Austria,359.84,169.72
+Accomodation,Belgium,231.25,98.02
+Accomodation,Bulgaria,84.25,31.32
+Accomodation,Croatia,119.04,47.79
+Accomodation,Cyprus,204.13,31.88
+Accomodation,Czech Republic,120.24,17.57
+Accomodation,Denmark,353.88,86.4
+Accomodation,Estonia,156.13,19.82
+Accomodation,Finland,222.09,43.25
+Accomodation,France,318.66,73.05
+Accomodation,Germany,354.12,110.84
+Accomodation,Greece,135.54,46.39
+Accomodation,Hungary,62.04,31.91
+Accomodation,Ireland,268.58,78.27
+Accomodation,Italy,216.31,116.27
+Accomodation,Latvia,103.52,4.52
+Accomodation,Lithuania,152.55,31.49
+Accomodation,Luxembourg,255.72,194.52
+Accomodation,Malta,251,53.67
+Accomodation,Netherlands,259.09,62.27
+Accomodation,Poland,139.22,37.55
+Accomodation,Portugal,163.36,23.41
+Accomodation,Romania,91.31,23.67
+Accomodation,Slovakia,152.9,46.07
+Accomodation,Slovenia,121.22,54.88
+Accomodation,Spain,243.77,46.08
+Accomodation,Sweden,196.94,65.04
+Accomodation,Switzerland,378.18,173.3
+Accomodation,United Kingdom,374.49,89.49
+Eating out,Austria,:,:
+Eating out,Belgium,130.14,77.84
+Eating out,Bulgaria,106.48,48.08
+Eating out,Croatia,94.78,50.88
+Eating out,Cyprus,215.81,43.59
+Eating out,Czech Republic,83.73,14.1
+Eating out,Denmark,:,:
+Eating out,Estonia,106.04,18.37
+Eating out,Finland,174.33,37.3
+Eating out,France,174.65,50.08
+Eating out,Germany,:,:
+Eating out,Greece,172.06,102.32
+Eating out,Hungary,56.94,7.48
+Eating out,Ireland,:,:
+Eating out,Italy,:,:
+Eating out,Latvia,36.54,4.57
+Eating out,Lithuania,53.09,12.15
+Eating out,Luxembourg,230.61,163.65
+Eating out,Malta,:,:
+Eating out,Netherlands,100.27,27.9
+Eating out,Poland,111,38.5
+Eating out,Portugal,124.15,36.01
+Eating out,Romania,67.87,29.78
+Eating out,Slovakia,103.53,26.61
+Eating out,Slovenia,52.58,20.15
+Eating out,Spain,171.23,49.05
+Eating out,Sweden,:,:
+Eating out,Switzerland,224.97,108.37
+Eating out,United Kingdom,0,51.55
+Other,Austria,221.79,133.84
+Other,Belgium,83.17,26.8
+Other,Bulgaria,60,15.13
+Other,Croatia,60.69,26.37
+Other,Cyprus,239.18,31.04
+Other,Czech Republic,110.44,25.02
+Other,Denmark,287.74,82.47
+Other,Estonia,97.09,16.06
+Other,Finland,145.9,55.03
+Other,France,178.76,86.02
+Other,Germany,162.3,69.53
+Other,Greece,115.23,69.38
+Other,Hungary,130.26,18.22
+Other,Ireland,308.97,92.52
+Other,Italy,203.29,110.41
+Other,Latvia,72.81,14.38
+Other,Lithuania,99.86,7.36
+Other,Luxembourg,96.99,49.46
+Other,Malta,462.1,99.75
+Other,Netherlands,97.64,26.88
+Other,Poland,92.36,20.89
+Other,Portugal,51.18,18.58
+Other,Romania,66.77,22
+Other,Slovakia,92.32,35.64
+Other,Slovenia,55.68,21.91
+Other,Spain,164.42,44.3
+Other,Sweden,171.66,60.35
+Other,Switzerland,113.59,44.45
+Other,United Kingdom,69.87,20.02
+Shopping,Austria,13.2,5.68
+Shopping,Belgium,10.75,7.93
+Shopping,Bulgaria,0,0
+Shopping,Croatia,2.04,1.16
+Shopping,Cyprus,4.4,0.02
+Shopping,Czech Republic,0.84,0.03
+Shopping,Denmark,104.71,28.38
+Shopping,Estonia,6.13,0.26
+Shopping,Finland,11.63,6.35
+Shopping,France,87.19,12.97
+Shopping,Germany,38.93,15.56
+Shopping,Greece,6.32,0.82
+Shopping,Hungary,7.13,0.18
+Shopping,Ireland,14.51,6.26
+Shopping,Italy,1.28,1.02
+Shopping,Latvia,3.1,0
+Shopping,Lithuania,9.54,0.59
+Shopping,Luxembourg,1.82,7.75
+Shopping,Malta,50.45,0.63
+Shopping,Netherlands,19.7,1.91
+Shopping,Poland,2.74,0.25
+Shopping,Portugal,1.07,1.08
+Shopping,Romania,2.3,0.15
+Shopping,Slovakia,4.37,0.96
+Shopping,Slovenia,0.39,0.01
+Shopping,Spain,5.78,3.09
+Shopping,Sweden,0,9.35
+Shopping,Switzerland,9.3,3.32
+Shopping,United Kingdom,37.51,35.39
+Total,Austria,873.52,372.58
+Total,Belgium,704.88,231.06
+Total,Bulgaria,384.68,118.5
+Total,Croatia,430.54,176.28
+Total,Cyprus,990.46,121.4
+Total,Czech Republic,422.54,68.32
+Total,Denmark,880.52,237.81
+Total,Estonia,566.15,76.62
+Total,Finland,852.32,188.7
+Total,France,1017.39,273.85
+Total,Germany,848.07,260.78
+Total,Greece,639.15,280.38
+Total,Hungary,311.53,70.74
+Total,Ireland,875.36,202.03
+Total,Italy,652.52,299.19
+Total,Latvia,340.95,36.26
+Total,Lithuania,449.19,67.16
+Total,Luxembourg,814.39,537.9
+Total,Malta,911.58,164.07
+Total,Netherlands,694.83,140.76
+Total,Poland,508.9,119.17
+Total,Portugal,489.6,106.53
+Total,Romania,378.26,108.79
+Total,Slovakia,468.63,128.61
+Total,Slovenia,335.05,113.51
+Total,Spain,905.09,181.73
+Total,Sweden,517.27,162.56
+Total,Switzerland,1053.42,365.98
+Total,United Kingdom,728.71,215.78
+Transport,Austria,291.89,69.02
+Transport,Belgium,260.32,28.4
+Transport,Bulgaria,133.95,23.97
+Transport,Croatia,156.04,51.24
+Transport,Cyprus,331.34,14.9
+Transport,Czech Republic,108.12,11.63
+Transport,Denmark,238.89,68.94
+Transport,Estonia,206.89,22.36
+Transport,Finland,310,53.12
+Transport,France,345.32,64.7
+Transport,Germany,331.66,80.41
+Transport,Greece,216.33,62.29
+Transport,Hungary,62.28,13.13
+Transport,Ireland,297.81,31.25
+Transport,Italy,232.91,72.5
+Transport,Latvia,128.08,12.79
+Transport,Lithuania,143.7,16.16
+Transport,Luxembourg,231.07,130.27
+Transport,Malta,198.48,10.65
+Transport,Netherlands,237.83,23.7
+Transport,Poland,166.33,22.23
+Transport,Portugal,150.91,28.53
+Transport,Romania,152.31,33.34
+Transport,Slovakia,119.88,20.29
+Transport,Slovenia,105.57,16.58
+Transport,Spain,325.67,42.31
+Transport,Sweden,148.67,37.18
+Transport,Switzerland,336.68,39.87
+Transport,United Kingdom,284.35,54.72
