@@ -1,0 +1,58 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+  
+  "description": "Vodka prices zoom-able",
+
+  "title": "A pint of Bitter in London, and in Wales",
+  
+  "height": 450,
+  "width": 450,
+  
+  "mark":{
+    "type": "point",
+    "opacity": 1,
+    "opacity": 0.4,
+    "fill": "",
+    "fillOpacity": 0
+    }, 
+  
+  "encoding": {
+    
+    "x": {
+    "axis": {"title": "Date: 1996 to 2017"},
+    "field": "quote_date", 
+    "type": "ordinal"
+    },
+    
+    "y": {
+      "field": "price", 
+      "type": "quantitative",
+      "axis": {
+        "title": "Price (£) per pint",
+        "format": ".2f"
+        }
+      },
+    
+    "size": {"value": 2},
+    
+    "xcolor": {"value": "green"},
+
+    "color": {
+      "field": "region", 
+      "type": "nominal"
+            }
+  },
+
+  
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/vega/master/Bitter.csv",
+    "type": "csv"},
+
+
+  "COMMENT": "THIS NEXT BIT MAKES THE CHART ZOOMABLE",
+  "selection": {
+    "grid": {
+      "type": "interval", "bind": "scales"
+    }
+  }  
+  } 
