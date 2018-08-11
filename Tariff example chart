@@ -1,0 +1,54 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+  
+  "data": { "url": "https://raw.githubusercontent.com/RDeconomist/vega/master/Tarrifs%20example.csv"},
+
+   "title": {
+    "text": "Suport for tariffs",
+    "anchor": "start",
+    "color": "navy"
+  },
+
+  "config":{
+    "background": "#FAFAFA"
+  },
+
+  "height": 250,
+  "width": 100,
+  
+  "mark": "bar",
+  
+  "encoding": {
+  
+    "column": {
+      "field": "Date", 
+      "type": "ordinal"
+    },
+
+    "y": {
+      "aggregate": "sum", 
+      "field": "Tarrif support", 
+      "type": "quantitative",
+      "axis": {"title": "Support, % of households", "grid": false}
+    },
+
+    "x": {
+      "field": "Household type", 
+      "type": "nominal",
+      "axis": {
+        "title": "",
+        "labels": false
+        }
+    },
+
+    "color": {
+      "field": "Household type", 
+      "type": "nominal",
+      "legend":{
+        "offset": 5,
+        "orient": "right"
+        },      
+      "scale": {"range": ["#FFCCE5", "#00000"]}
+    }
+  }
+}
