@@ -1,4 +1,4 @@
-State,State2,Death Rate,"Firearms, vs average",Med income,"Income, vs median",Imprisonment rates,Prison rate,Imprisonment rate,Firearm deaths,Division,Gini Coefficient 
+State,State2,Death Rate,"Firearms, vs average",Med income,"Income, vs median",Imprisonment rates,Prison rate,Imprisonment rate,Firearm deaths,Division,Gini 
 Alabama,AL,21.5,1.64700475,47221,0.799827233,736,1.264604811,0.736,0.215,South,0.472
 Alaska,AK,23.3,1.784893519,75723,1.282592862,376,0.64604811,0.376,0.233,West,0.422
 Arizona,AZ,15.2,1.164394055,57100,0.967157303,764,1.312714777,0.764,0.152,West,0.455
