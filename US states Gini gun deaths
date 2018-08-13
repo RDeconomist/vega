@@ -1,0 +1,65 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+
+  "description": "USA | FIREARM DEATHS BY STATE",
+
+  "title": {
+    "text": "USA | Inequality and firearm deaths",
+    "anchor": "start"}, 
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/vega/master/US%20states2.csv"
+    },
+
+  "config":{
+    "background": "#FAFAFA"
+  },
+
+  "height": 500,
+  "width": 500,
+
+  "mark": {    
+    "type": "point", 
+    "filled": true,   
+    "opacity": 1,
+    "fillOpacity": 0.9,
+    "size":150
+    },
+
+  
+
+    "encoding": {
+
+    "x": {
+      "field": "Death Rate", 
+      "type": "quantitative",
+      "axis": {"title": "Death Rate"}
+            },
+
+    "y": {
+      "field": "Gini", 
+      "type": "quantitative",
+      "axis": {"title": "Gini coefficient"},
+      "scale": {"domain": [0.4, 0.5]}
+      },
+
+    "color": {
+      "field": "Division", 
+      "type": "nominal"
+            },
+
+    "size": {
+      "field": "Med income", 
+      "type": "quantitative"
+      },
+
+    
+       
+    "tooltip": [
+      {"field": "State", "type": "ordinal", "format": "%Y"},
+      {"field": "Death Rate", "type": "ordinal"},
+      {"field": "Med income", "type": "quantitative", "format": "$,"}
+    ]        
+
+  }
+}
