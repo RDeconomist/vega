@@ -1,0 +1,71 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+
+  "description": "USA | FIREARM DEATHS BY STATE",
+
+  "title": {
+    "text": "USA | Gini coefficients by state",
+    "anchor": "start"}, 
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/vega/master/US%20states2.csv"
+    },
+
+  "config":{
+    "background": "#FAFAFA"
+  },
+
+  "height": 500,
+  "width": 500,
+
+  "mark": {    
+    "type": "bar",    
+    "opacity": "1",
+    "XYZinterpolate": "", 
+    "color": "red", 
+    "size":5,
+    
+    "XYZpoint": {
+      "color": "black",
+      "size": "50"}
+  },
+
+  
+
+    "encoding": {
+
+    "x": {
+      "field": "State", 
+      "type": "ordinal",
+      "axis": {"title": "State"},
+      "sort":{
+        "field":"Gini",
+        "op":"mean",
+        "order":"descending"
+      } 
+      },
+
+    "y": {
+      "field": "Gini", 
+      "type": "quantitative",
+      "axis": {"title": "Gini coefficient"},
+      "scale": {"domain": [0, 0.5]}
+      },
+
+    "color": {
+      "field": "Division", 
+      "type": "nominal"
+            },
+
+    
+    
+    
+       
+    "tooltip": [
+      {"field": "State", "type": "ordinal", "format": "%Y"},
+      {"field": "Death Rate", "type": "ordinal"},
+      {"field": "Med income", "type": "quantitative", "format": "$,"}
+    ]        
+
+  }
+}
