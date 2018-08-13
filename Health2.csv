@@ -3,7 +3,7 @@ Afghanistan,53,Afghanistan,10.3,Afghanistan,Not available
 Albania,68.1,Albania,6.8,Albania,23.8
 Algeria,65.5,Algeria,7.1,Algeria,Not available
 Angola,55.8,Angola,2.9,Angola,Not available
-Antigua and Barbuda,67,Antigua and Barbuda,4.8,Antigua and Barbuda,Not available
+Antigua &,67,Antigua and Barbuda,4.8,Antigua and Barbuda,Not available
 Argentina,68.4,Argentina,6.8,Argentina,18.1
 Armenia,66.3,Armenia,10.1,Armenia,24.7
 Australia,73,Australia,9.4,Australia,13.7
@@ -18,8 +18,8 @@ Belgium,71.6,Belgium,10.5,Belgium,19.7
 Belize,62.5,Belize,6.2,Belize,Not available
 Benin,53.5,Benin,4,Benin,7.4
 Bhutan,60.7,Bhutan,3.5,Bhutan,Not available
-Bolivia (Plurinational State of),63,Bolivia (Plurinational State of),6.4,Bolivia (Plurinational State of),Not available
-Bosnia and Herzegovina,67.2,Bosnia and Herzegovina,9.4,Bosnia and Herzegovina,32.1
+Bolivia, 63,Bolivia (Plurinational State of),6.4,Bolivia (Plurinational State of),Not available
+Bosnia & Herz.,67.2,Bosnia and Herzegovina,9.4,Bosnia and Herzegovina,32.1
 Botswana,57.5,Botswana,6,Botswana,Not available
 Brazil,66,Brazil,8.9,Brazil,12.7
 Brunei Darussalam,67.9,Brunei Darussalam,2.6,Brunei Darussalam,12.9
@@ -30,7 +30,7 @@ Cabo Verde,64.5,Cabo Verde,4.8,Cabo Verde,9.7
 Cambodia,60.8,Cambodia,6,Cambodia,19.8
 Cameroon,51.1,Cameroon,5.1,Cameroon,13.6
 Canada,73.2,Canada,10.4,Canada,11.9
-Central African Republic,44.9,Central African Republic,4.8,Central African Republic,Not available
+Cent Afr Rep,44.9,Central African Republic,4.8,Central African Republic,Not available
 Chad,47.2,Chad,4.6,Chad,Not available
 Chile,69.7,Chile,8.1,Chile,27.5
 China,68.7,China,5.3,China,22.4
@@ -44,10 +44,10 @@ Cuba,69.9,Cuba,7.4,Cuba,23.4
 Cyprus,73.3,Cyprus,10.9,Cyprus,Not available
 Czechia,69.3,Czechia,6.8,Czechia,24.7
 N Korea,64.6,Democratic People's Republic of Korea,7.3,Democratic People's Republic of Korea,Not available
-Democratic Republic of the Congo,52.5,Democratic Republic of the Congo,No data,Democratic Republic of the Congo,Not available
+Congo DR,52.5,Democratic Republic of the Congo,No data,Democratic Republic of the Congo,Not available
 Denmark,71.8,Denmark,4.3,Denmark,15.6
 Djibouti,56.6,Djibouti,10.3,Djibouti,Not available
-Dominican Republic,65.2,Dominican Republic,4.4,Dominican Republic,11.3
+Dominican Rep,65.2,Dominican Republic,4.4,Dominican Republic,11.3
 Ecuador,67.9,Ecuador,5.4,Ecuador,4.5
 Egypt,61.1,Egypt,6.2,Egypt,20.3
 El Salvador,65.5,El Salvador,8.5,El Salvador,Not available
@@ -76,7 +76,7 @@ Hungary,66.8,Hungary,6.9,Hungary,25.1
 Iceland,73,Iceland,7.6,Iceland,13.1
 India,59.3,India,7.2,India,10.7
 Indonesia,61.7,Indonesia,8.6,Indonesia,33.1
-Iran (Islamic Republic of),65.4,Iran (Islamic Republic of),3.9,Iran (Islamic Republic of),10.4
+Iran,65.4,Iran (Islamic Republic of),3.9,Iran (Islamic Republic of),10.4
 Iraq,59,Iraq,3.3,Iraq,Not available
 Ireland,72.1,Ireland,7.6,Ireland,19.2
 Israel,72.9,Israel,3.4,Israel,23.3
@@ -89,7 +89,7 @@ Kenya,58.9,Kenya,6.3,Kenya,9.8
 Kiribati,57.8,Kiribati,3.9,Kiribati,45.6
 Kuwait,66.3,Kuwait,5.2,Kuwait,Not available
 Kyrgyzstan,63.5,Kyrgyzstan,7.6,Kyrgyzstan,20.9
-Lao People's Democratic Republic,57.9,Lao People's Democratic Republic,4,Lao People's Democratic Republic,29
+Lao,57.9,Lao People's Democratic Republic,4,Lao People's Democratic Republic,29
 Latvia,66.2,Latvia,8.2,Latvia,30
 Lebanon,66.1,Lebanon,2.8,Lebanon,28.7
 Lesotho,46.6,Lesotho,5.8,Lesotho,19.9
@@ -106,7 +106,7 @@ Malta,72.2,Malta,11.5,Malta,20.7
 Mauritania,56.4,Mauritania,5.8,Mauritania,19
 Mauritius,65.8,Mauritius,9.6,Mauritius,16
 Mexico,67.7,Mexico,22.1,Mexico,8.3
-Micronesia (Federated States of),61.1,Micronesia (Federated States of),4.6,Micronesia (Federated States of),Not available
+Micronesia,61.1,Micronesia (Federated States of),4.6,Micronesia (Federated States of),Not available
 Mongolia,61.9,Mongolia,5.5,Mongolia,22.7
 Montenegro,68.1,Montenegro,5.9,Montenegro,Not available
 Morocco,65.3,Morocco,13.1,Morocco,17.9
@@ -130,15 +130,15 @@ Philippines,61.7,Philippines,3.8,Philippines,20.6
 Poland,68.5,Poland,2.7,Poland,23.2
 Portugal,72,Portugal,10.6,Portugal,17.7
 Qatar,68.6,Qatar,7,Qatar,Not available
-Republic of Korea,73,Republic of Korea,3.8,Republic of Korea,25.7
-Republic of Moldova,63.6,Republic of Moldova,7.8,Republic of Moldova,20.1
+S Korea,73,Republic of Korea,3.8,Republic of Korea,25.7
+Moldova,63.6,Republic of Moldova,7.8,Republic of Moldova,20.1
 Romania,66.6,Romania,5.3,Romania,25.7
-Russian Federation,63.5,Russian Federation,4.4,Russian Federation,33.4
+Russia,63.5,Russian Federation,4.4,Russian Federation,33.4
 Rwanda,59.9,Rwanda,6.3,Rwanda,Not available
 Saint Lucia,66.4,Saint Lucia,9,Saint Lucia,Not available
-Saint Vincent and the Grenadines,63.4,Saint Vincent and the Grenadines,3.1,Saint Vincent and the Grenadines,Not available
+Saint Vinc &,63.4,Saint Vincent and the Grenadines,3.1,Saint Vincent and the Grenadines,Not available
 Samoa,66,Samoa,7.4,Samoa,24.4
-Sao Tome and Principe,60.7,Sao Tome and Principe,10.2,Sao Tome and Principe,Not available
+Sao Tome &,60.7,Sao Tome and Principe,10.2,Sao Tome and Principe,Not available
 Saudi Arabia,65.7,Saudi Arabia,5,Saudi Arabia,14.5
 Senegal,58.8,Senegal,5.6,Senegal,9.5
 Serbia,67.4,Serbia,7.9,Serbia,33.5
@@ -157,10 +157,10 @@ Sudan,55.7,Sudan,4.3,Sudan,Not available
 Suriname,63.2,Suriname,6.9,Suriname,Not available
 Sweden,72.4,Sweden,8.5,Sweden,11.8
 Switzerland,73.5,Switzerland,8,Switzerland,19.5
-Syrian Arab Republic,55.8,Syrian Arab Republic,.,Syrian Arab Republic,Not available
+Syria,55.8,Syrian Arab Republic,.,Syrian Arab Republic,Not available
 Tajikistan,63.5,Tajikistan,8.2,Tajikistan,Not available
 Thailand,66.8,Thailand,2.5,Thailand,18.2
-The former Yugoslav republic of Macedonia,67.1,The former Yugoslav republic of Macedonia,9.2,The former Yugoslav republic of Macedonia,Not available
+Macedonia,67.1,The former Yugoslav republic of Macedonia,9.2,The former Yugoslav republic of Macedonia,Not available
 Timor-Leste,59.2,Timor-Leste,3,Timor-Leste,Not available
 Togo,53.9,Togo,6.3,Togo,Not available
 Tonga,64.3,Tonga,6.5,Tonga,25.8
@@ -170,14 +170,14 @@ Turkey,66,Turkey,.,Turkey,22.4
 Turkmenistan,61.4,Turkmenistan,6.9,Turkmenistan,Not available
 Uganda,54.9,Uganda,3.8,Uganda,6.6
 Ukraine,64,Ukraine,6.1,Ukraine,25.4
-United Arab Emirates,66.7,United Arab Emirates,3.1,United Arab Emirates,Not available
+UAE,66.7,United Arab Emirates,3.1,United Arab Emirates,Not available
 UK,71.9,United Kingdom of Great Britain and Northern Ireland,6.6,United Kingdom of Great Britain and Northern Ireland,20.3
 Tanzania,56.5,United Republic of Tanzania,5.9,United Republic of Tanzania,11.9
 US,68.5,United States of America,6,United States of America,14.3
 Uruguay,68.8,Uruguay,6.7,Uruguay,18.9
 Uzbekistan,64.5,Uzbekistan,4.1,Uzbekistan,10.4
 Vanuatu,62.7,Vanuatu,6.3,Vanuatu,Not available
-Venezuela (Bolivarian Republic of),66.1,Venezuela (Bolivarian Republic of),15,Venezuela (Bolivarian Republic of),Not available
+Venezuela,66.1,Venezuela (Bolivarian Republic of),15,Venezuela (Bolivarian Republic of),Not available
 Viet Nam,67.5,Viet Nam,7.3,Viet Nam,19.2
 Yemen,55.1,Yemen,6.1,Yemen,Not available
 Zambia,54.3,Zambia,3.5,Zambia,10.5
