@@ -1,0 +1,65 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+    "config": {
+        "background": "#FAFAFA"
+    },
+    "data": {
+        "format": {
+            "type": "csv"
+        },
+        "url": "https://raw.githubusercontent.com/RDeconomist/vega/master/US%20firearm%20deaths.csv"
+    },
+    "description": "USA | FIREARM DEATHS BY STATE",
+    "encoding": {
+        "tooltip": [
+            {
+                "field": "State",
+                "format": "%Y",
+                "type": "ordinal"
+            },
+            {
+                "field": "Death Rate",
+                "type": "ordinal"
+            },
+            {
+                "field": "Med income",
+                "format": "$,",
+                "type": "quantitative"
+            }
+        ],
+        "x": {
+            "axis": {
+                "title": "Annual deaths per 100,000 people"
+            },
+            "field": "Death Rate",
+            "type": "quantitative"
+        },
+        "y": {
+            "axis": {
+                "title": "Median income"
+            },
+            "field": "Med income",
+            "scale": {
+                "domain": [
+                    35000,
+                    80000
+                ]
+            },
+            "type": "quantitative"
+        }
+    },
+    "height": 500,
+    "width": 500,
+    "mark": {
+        "color": "red",
+        "filled": true,
+        "opacity": "1",
+        "size": "250",
+        "type": "point"
+    },
+    "title": {
+        "anchor": "start",
+        "text": "USA | Firearm deaths and income, by state"
+    }
+    
+}
