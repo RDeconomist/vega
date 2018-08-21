@@ -1,0 +1,65 @@
+{
+
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+  
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/vega/master/Vodka%2C%20long%20percentiles2.csv"
+    },
+ 
+
+  "title":{
+    "text": "",
+    "anchor": "start",
+    "color" : "Navy",
+    "font": "Arial"   
+  },
+
+
+  "height": 500,
+  "width": 500,
+ 
+  "mark": {
+    "type": "area"
+    },
+  
+  "encoding": {
+
+    "color": {
+      "field": "area", 
+      "type": "ordinal",
+      "sort": "descending",
+      "legend":{
+        "orient":"top-left"
+      },
+        "scale": {
+        "domain": ["1","2","3","4","5","6","7"],
+        "range": ["#FFFFFF","#FFFF00","#FFA747","#FF8000","#FF8000","#FFA747","#FFFF00"]
+      }
+    },
+
+    "x": {
+      "field": "quote_date", 
+      "type": "ordinal", 
+      "axis": {"format": "%Y"},
+      "axis":{"grid": false}
+      },
+     
+    "y": {
+      "field": "value", 
+      "type": "quantitative",
+      "sort": null,
+      "xstack": null,
+      "aggregate": "",
+      "axis":{
+        "grid": false,
+        "title": "Price, £"
+      }
+    },
+
+    "order": {"aggregate": "sum", "field": "area", "type": "quantitative"},
+
+    "opacity":{"value": 1}
+
+  }
+}
