@@ -1,102 +1,82 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-
   "description": "Covid-19 data, from ECDC",
-
   "data": {
     "url": "https://raw.githubusercontent.com/RDeconomist/vega/master/db_ecdc_wide.csv"
-    },
-
-"transform":[
-    {"filter": {"field": "country", "oneOf": ["UK", "France", "Germany", "Portugal"]}}
-    ],
-
-"selection": {
+  },
+  "transform": [
+    {
+      "filter": {
+        "field": "country",
+        "oneOf": ["UK", "France", "Germany", "Portugal"]
+      }
+    }
+  ],
+  "selection": {
     "Days": {
       "type": "single",
       "fields": ["days"],
-      "bind": {"input": "range", "min": 1, "max": 336, "step": 1, "name": "Days since start"
+      "bind": {
+        "input": "range",
+        "min": 1,
+        "max": 336,
+        "step": 1,
+        "name": "Days since start"
       },
       "init": {"days": 1}
-      },
+    },
     "Country": {
       "type": "single",
-      "fields": ["days"],
-      "bind": {"input": "select", "options": [null, "UK", "France", "Germany", "Portugal"], "name": "Country"
+      "fields": ["country"],
+      "bind": {
+        "input": "select",
+        "options": [null, "UK", "France", "Germany", "Portugal"],
+        "name": "Country"
       }
     }
   },
-
-
-"encoding": {
-
+  "encoding": {
     "x": {
-      "field": "cases_cml", 
+      "field": "cases_cml",
       "type": "quantitative",
       "axis": {
         "title": "Cases",
         "grid": false,
         "tickCount": 14,
-        "labelOverlap":"greedy"
-        }
-      },
-      
-      
-
+        "labelOverlap": "greedy"
+      }
+    },
     "y": {
-      "field": "deaths_cml", 
+      "field": "deaths_cml",
       "type": "quantitative",
-      "axis": {
-        "title": "Deaths",
-        "grid": false
-        },
+      "axis": {"title": "Deaths", "grid": false},
       "xxscale": {"domain": [-0.05, 0.02]},
       "format": ".2f"
-      },
-
-
+    },
     "color": {
-      "field": "country", 
+      "field": "country",
       "type": "nominal",
       "scale": {"scheme": "inferno"}
-            },
-
-
-    "size": {"condition": {"selection": "Country", "value": 100}, "value": 1},
-
-
+    },
+    "size": {"condition": {"selection": "Days", "value": 30}, "value": 5},
     "tooltip": [
       {"field": "date2", "type": "temporal"},
       {"field": "country", "type": "nominal"}
-      
     ]
   },
-
-
   "title": {
     "text": "COVID-19 - LIVE DATA TRACKER",
     "anchor": "start",
     "color": "black"
   },
-
-
-  "config":{
-    "background": "#FAFAFA"
-  },
-
-
+  "config": {"background": "#FAFAFA"},
   "height": 450,
   "width": 800,
-
-
   "mark": {
     "type": "circle",
     "opacity": "1",
-    "interpolate": "", 
-    "color": "red", 
-
-    "point": {
-      "color": "black",
-      "size": "0"}
+    "interpolate": "",
+    "color": "red",
+    "point": {"color": "black", "size": "0"}
   }
 }
