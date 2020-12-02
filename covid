@@ -11,7 +11,7 @@
     {"filter": {"field": "country", "oneOf": ["UK", "France", "Germany", "Portugal"]}}
     ],
 
-
+  
   "encoding": {
 
     "x": {
@@ -43,11 +43,14 @@
       "type": "nominal",
       "scale": {"scheme": "inferno"}
             },
+            
 
 
     "tooltip": [
-      {"field": "date", "type": "ordinal"},
-      {"field": "country", "type": "nominal"}
+      {"field": "date2", "type": "temporal", "title": "Date"},
+      {"field": "country", "type": "nominal", "title":"Country"},
+      {"field": "cases_ma7", "type": "nominal", "title":"Cases 7-day avg", "format": ".0f"},
+      {"field": "cases", "type": "nominal", "title":"Cases"}
       
     ]
   },
@@ -71,12 +74,7 @@
 
   "mark": {
     "type": "line",
-    "opacity": "1",
     "interpolate": "", 
-    "color": "red", 
-
-    "point": {
-      "color": "black",
-      "size": "0"}
+    "color": "red"
   }
 }
